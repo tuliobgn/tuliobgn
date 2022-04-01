@@ -1,6 +1,6 @@
 ### Hi, I'm Túlio 👋
 
-In December 2021 I left my PhD in chemistry to dedicate myself to technology.
+In December 2021 I left my PhD in chemistry to dedicate myself entirely to technology.
 
 - 🌱 I’m currently learning Python and SQL
 - 📫 Reach me: 
